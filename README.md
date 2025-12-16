@@ -17,7 +17,7 @@ import kagglehub
 path = kagglehub.dataset_download("camnugent/california-housing-prices")
 
 ## Results:
-![Linear Regression Results:](images/lrtestres.png)
-![Random Forest Results:](images/rftestres.png)
+<img width="893" height="197" alt="Image" src="https://github.com/user-attachments/assets/319d642f-1cf8-4f33-95b3-ec20065386be" />
 
+<img width="1032" height="166" alt="Image" src="https://github.com/user-attachments/assets/7232125b-5d6d-4875-9691-cc6fa49ec9f5" />
 
