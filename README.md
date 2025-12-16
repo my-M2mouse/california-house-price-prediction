@@ -12,7 +12,7 @@ using Linear Regression and Random Forest models.
 ### Dataset
 The dataset is downloaded programmatically from Kaggle using KaggleHub.
 
-```python
+### python
 import kagglehub
 path = kagglehub.dataset_download("camnugent/california-housing-prices")
 
